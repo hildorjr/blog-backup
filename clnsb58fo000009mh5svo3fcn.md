@@ -5,7 +5,7 @@ seoDescription: "Use Atomic Design and develop small components for consistent d
 datePublished: Mon Oct 16 2023 03:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clnsb58fo000009mh5svo3fcn
 slug: crafting-long-lasting-frontend-designs-key-considerations
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694805222081/49717f88-f0f6-4fd8-99a8-38929e8c2da7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Fa9b57hffnM/upload/751f691cb57ac3d812582c617a64e3f7.jpeg
 tags: design, atomic-design, frontend-development, code-reusability, design-and-architecture
 
 ---
