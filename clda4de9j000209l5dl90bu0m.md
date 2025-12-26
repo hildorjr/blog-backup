@@ -1,14 +1,16 @@
 ---
 title: "Growing up into the Tech world"
+seoTitle: "Navigating the Tech World from Childhood"
+seoDescription: "A journey from early tech experiences to a career in web development, blending gaming, YouTube, and coding skills"
 datePublished: Tue Jan 24 2023 10:53:41 GMT+0000 (Coordinated Universal Time)
 cuid: clda4de9j000209l5dl90bu0m
 slug: growing-up-into-the-tech-world
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674557404741/a1249c45-f4d4-4f3a-b602-e0767b304f51.png
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/y9wY-3pi3-w/upload/ce5fb06633a66a66d1a2fb54c37d673a.jpeg
 tags: career, learning-journey
 
 ---
 
-Since I was a child, I've always been in touch with technology and probably had my first experience with a computer when I was about 8 years old.
+I've always been in touch with technology and probably had my first experience with a computer when I was about 8 years old.
 
 Growing up with a computer and enough free time to spend on it after school sure gave me a lot of experience in the world wide web. Most of my interest went into PC gaming and video recording stuff. So I spent most of my time playing video games, watching Youtube and trying to figure out how to do some of the cool stuff I always saw on the web.
 
