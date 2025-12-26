@@ -1,8 +1,10 @@
 ---
-title: "How to design thinking about frontend development in a long-term project"
+title: "Crafting Long-Lasting Frontend Designs: Key Considerations"
+seoTitle: "Long-Term Frontend Design Strategies"
+seoDescription: "Use Atomic Design and develop small components for consistent design and code in long-term frontend projects"
 datePublished: Mon Oct 16 2023 03:00:12 GMT+0000 (Coordinated Universal Time)
 cuid: clnsb58fo000009mh5svo3fcn
-slug: how-to-design-thinking-about-frontend-development-in-a-long-term-project
+slug: crafting-long-lasting-frontend-designs-key-considerations
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694805222081/49717f88-f0f6-4fd8-99a8-38929e8c2da7.png
 tags: design, atomic-design, frontend-development, code-reusability, design-and-architecture
 
@@ -43,7 +45,7 @@ This solution speeds up the development time exponentially and the following cha
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697333742903/025274ed-be4a-448c-b949-e93e46bf8c27.png align="center")
 
-## A know solution
+## A known solution
 
 There is a methodology called Atomic Design which takes all that into account and simplifies it into an easier way to understand the concept. You have multiple levels of component complexity, starting with very simple components, usually with only one goal, and then those smaller components are used in bigger ones until we get to the final level, which should be what is displayed to the user as a result.
 
